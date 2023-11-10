@@ -25,6 +25,6 @@ def get_pet_labels(image_dir):
 
 
 # Uncomment the lines below for testing
-image_dir = './pet_images'
-results = get_pet_labels(image_dir)
-print(results)
+# image_dir = './pet_images'
+# results = get_pet_labels(image_dir)
+# print(results)
